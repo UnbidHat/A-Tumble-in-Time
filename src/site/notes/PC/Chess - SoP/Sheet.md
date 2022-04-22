@@ -67,7 +67,8 @@
 	- Save DC: 19
 	- MSB: 7
 	- MSD: 18
-- 
+```ad-spheres
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -102,7 +103,7 @@
 
 </div></div>
 
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -137,7 +138,7 @@
 
 </div></div>
 
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -172,7 +173,7 @@
 
 </div></div>
 
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -207,7 +208,10 @@
 
 </div></div>
 
-- 
+```
+
+```ad-drawbacks
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -233,6 +237,7 @@ Intelligence
 
 </div></div>
 
+```
 
 # Inventory
 - [[PC/Chess/Inventory|PC/Chess/Inventory]]
