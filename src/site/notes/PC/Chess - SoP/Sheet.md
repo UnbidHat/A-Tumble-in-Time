@@ -67,147 +67,33 @@
 	- Save DC: 19
 	- MSB: 7
 	- MSD: 18
-```ad-spheres
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+```ad-destruction
+[[Destructive Blast]]
+```
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# Destruction
-- [[Destructive Blast]]
-
-# Divination
+```ad-divination
 - [[Alarm]]
 - [[Detect Secrets (divine)]]
 - [[Detect Thoughts (divine)]]
 - [[Divine]]
 - [[Logos (sense) (Origin)]]
 - [[Sense]]
+```
 
-# Time
+```ad-time
 - [[Alter Time]]
 	- [[Alter Time#Haste]]
 	- [[Alter Time#Slow]]
 - [[Ranged Time (range)]]
 - [[Retroactive Preparation]]
 - [[Timeline Bridge (time)]]
+```
 
-# Warp
+```ad-warp
 - [[Extradimensional Room (space)]]
 - [[Extradimensional Storage (space)]] x 2
 - [[Teleport]]
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# Destruction
-- [[Destructive Blast]]
-
-# Divination
-- [[Alarm]]
-- [[Detect Secrets (divine)]]
-- [[Detect Thoughts (divine)]]
-- [[Divine]]
-- [[Logos (sense) (Origin)]]
-- [[Sense]]
-
-# Time
-- [[Alter Time]]
-	- [[Alter Time#Haste]]
-	- [[Alter Time#Slow]]
-- [[Ranged Time (range)]]
-- [[Retroactive Preparation]]
-- [[Timeline Bridge (time)]]
-
-# Warp
-- [[Extradimensional Room (space)]]
-- [[Extradimensional Storage (space)]] x 2
-- [[Teleport]]
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# Destruction
-- [[Destructive Blast]]
-
-# Divination
-- [[Alarm]]
-- [[Detect Secrets (divine)]]
-- [[Detect Thoughts (divine)]]
-- [[Divine]]
-- [[Logos (sense) (Origin)]]
-- [[Sense]]
-
-# Time
-- [[Alter Time]]
-	- [[Alter Time#Haste]]
-	- [[Alter Time#Slow]]
-- [[Ranged Time (range)]]
-- [[Retroactive Preparation]]
-- [[Timeline Bridge (time)]]
-
-# Warp
-- [[Extradimensional Room (space)]]
-- [[Extradimensional Storage (space)]] x 2
-- [[Teleport]]
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# Destruction
-- [[Destructive Blast]]
-
-# Divination
-- [[Alarm]]
-- [[Detect Secrets (divine)]]
-- [[Detect Thoughts (divine)]]
-- [[Divine]]
-- [[Logos (sense) (Origin)]]
-- [[Sense]]
-
-# Time
-- [[Alter Time]]
-	- [[Alter Time#Haste]]
-	- [[Alter Time#Slow]]
-- [[Ranged Time (range)]]
-- [[Retroactive Preparation]]
-- [[Timeline Bridge (time)]]
-
-# Warp
-- [[Extradimensional Room (space)]]
-- [[Extradimensional Storage (space)]] x 2
-- [[Teleport]]
-
-</div></div>
-
 ```
 
 ```ad-drawbacks
