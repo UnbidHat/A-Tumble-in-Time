@@ -43,11 +43,11 @@ Save DC: 19 (10 + (Witch_Level / 2) + 6)
 
 ```ad-note
 title: Hexes Known
-- [[Prehensile Hair (Su)]]
-- [[Scar (Su)]]
-- [[Ward (Su)]]
-- [[Counterweight]]
-- [[Kinetic Drift]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Prehensile Hair (Su)|Prehensile Hair (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Scar (Su)|Scar (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Ward (Su)|Ward (Su)]]
+- [[Reference/Spheres of Power/Feats/Protokinesis/Counterweight|Counterweight]]
+- [[Reference/Spheres of Power/Feats/Protokinesis/Kinetic Drift|Kinetic Drift]]
 ```
 
 # Spheres & Talents
@@ -60,11 +60,11 @@ title: Stats
 ```
 
 ```ad-destruction
-- [[Destructive Blast]]
+- [[Reference/Spheres of Power/Spheres/Destruction/Destructive Blast]]
 ```
 
 ```ad-divination
-- [[Alarm]]
+- [[Reference/Spheres of Power/Spheres/Divination/Alarm]]
 - [[Detect Secrets (divine)]]
 - [[Detect Thoughts (divine)]]
 - [[Divine]]
