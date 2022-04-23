@@ -105,36 +105,6 @@ title: Stats
 - [[Reference/Spheres of Power/Spheres/Warp/Teleport|Teleport]]
 ```
 
-```ad-drawbacks
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Drawbacks
-
-
-</div>
-
-# Magic Type
-Arcane
-
-# Casting Ability Modifier
-Intelligence
-
-# Drawbacks
-[[Material Casting]]
-[[Expensive Locus]]
-[[Somatic Casting]] x2
-[[Verbal Casting]]
-
-# Boon
-+1 spell point per level in casting classes.
-
-</div></div>
-
-```
-
 # Inventory
 - [[PC/Chess - SoP/Inventory|Inventory]]
 
