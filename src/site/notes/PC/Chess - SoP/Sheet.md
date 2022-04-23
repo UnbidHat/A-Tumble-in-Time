@@ -77,11 +77,15 @@ title: Stats
 - MSD: 18
 ```
 
-```ad-destruction
+```ad-note
+title: Destruction
+color: 255, 0, 0
 - [[Reference/Spheres of Power/Spheres/Destruction/Destructive Blast|Destructive Blast]]
 ```
 
-```ad-divination
+```ad-note
+title: Divination
+color: 255, 255, 0
 - [[Reference/Spheres of Power/Spheres/Divination/Alarm|Alarm]]
 - [[Reference/Spheres of Power/Spheres/Divination/Detect Secrets (divine)|Detect Secrets (divine)]]
 - [[Reference/Spheres of Power/Spheres/Divination/Detect Thoughts (divine)|Detect Thoughts (divine)]]
@@ -90,7 +94,9 @@ title: Stats
 - [[Reference/Spheres of Power/Spheres/Divination/Sense|Sense]]
 ```
 
-```ad-time
+```ad-note
+title: Time
+color: 0, 0, 255
 - [[Reference/Spheres of Power/Spheres/Time/Alter Time|Alter Time]]
 	- [[Reference/Spheres of Power/Spheres/Time/Alter Time#Haste|Haste]]
 	- [[Reference/Spheres of Power/Spheres/Time/Alter Time#Slow|Slow]]
@@ -99,7 +105,9 @@ title: Stats
 - [[Reference/Spheres of Power/Spheres/Time/Timeline Bridge (time)|Timeline Bridge (time)]]
 ```
 
-```ad-warp
+```ad-note
+title: Warp
+color: 255, 0, 255
 - [[Reference/Spheres of Power/Spheres/Warp/Extradimensional Room (space)|Extradimensional Room (space)]]
 - [[Reference/Spheres of Power/Spheres/Warp/Extradimensional Storage (space)|Extradimensional Storage (space)]] x 2
 - [[Reference/Spheres of Power/Spheres/Warp/Teleport|Teleport]]
