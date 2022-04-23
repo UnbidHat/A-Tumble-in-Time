@@ -3,12 +3,17 @@
 ---
 
 # General
-- HP
-	- **Current**: 48
-	- **Total**: 63
-	- **Temp**: 
-	- **Nonlethal**: 
-- 
+```ad-note
+title: Health
+- **Current**: 48
+- **Total**: 63
+- **Temp**: 
+- **Nonlethal**: 
+```
+
+```ad-note
+title: Ability Scores
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -30,7 +35,23 @@
 
 </div></div>
 
-- 
+```
+
+```ad-note
+title: Ability Scores Directly Included
+| Ability      | Score | Mod. |
+| ------------ |:-----:|:----:|
+| Strength     |   7   |  -2  |
+| Dexterity    |  14   |  +2  |
+| Constitution |  14   |  +2  |
+| Intelligence |  22   |  +6  |
+| Wisdom       |  12   |  +1  |
+| Charisma     |   7   |  -2  |
+```
+
+```ad-note
+title: Movement
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -48,6 +69,8 @@
 **Climb:** 
 
 </div></div>
+
+```
 
 
 # Hexes
