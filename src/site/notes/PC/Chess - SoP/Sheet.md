@@ -122,129 +122,42 @@ Intelligence
 # Combat
 ```ad-note
 title: Initiative
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
+| **Total** | Dex | Feats | Training | Misc. |
 |:-----:|:---:|:-----:|:--------:|:-----:|
 |   2   |  2  |       |          |       |
 <!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
+```
 
-### Initiative
-Initiative: 2
+````ad-note
+title: Defense
 
+```ad-note
+title: Armor Class
+color: 0, 255, 0
 
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
+## Totals
 - Mage Armor: 18
 - Total: 15
 - Touch: 12
 - Flat: 13
 
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
+## Calculations
+| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
+|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
+|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
 <!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
 ```
 
 ```ad-note
-title: Defense
+title: Saving Throws
+color: 0, 255, 0
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+## Totals
+- Fortitude: 6
+- Reflex: 6
+- Will: 8
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
+## Calculations
 | Save      | Total | Base | Ability | Magic | Misc. | Temp. |
 | --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
 | Fortitude |   6   |  2   |    2    |   2   |       |       |
@@ -253,537 +166,41 @@ Initiative: 2
 <!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
 <!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
 <!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
 ```
+
+```ad-note
+title: CMD
+color: 0, 255, 0
+
+## Totals
+- CMD: 13
+
+## Calculation
+| Total | Base | BAB | Str. | Dex. | Size | Misc. |
+|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
+|  13   |  10  |  3  |  -2  |  2   |      |       |
+<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
+```
+````
 
 ```ad-note
 title: Attacks
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
+## Destructive Blast
 - Damage: 4d6
 
-### Destructive Blast (1SP)
+## Destructive Blast (1SP)
 - Damage: 7d6
 
-### Light Crossbow
+## Light Crossbow
 - Range: 80ft.
 - Type: Piercing
 - Attack: +4
 - Damage: 1d8
 - Critical: 19 - 20 x2
 
-### Prehensile Hair
+## Prehensile Hair
 - Range: 10ft.
 - Attack: +9
 - Damage: 1d3 + 9
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-# General
-## Initiative Section
-### Initiative Calculation
-| Total | Dex | Feats | Training | Misc. |
-|:-----:|:---:|:-----:|:--------:|:-----:|
-|   2   |  2  |       |          |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Initiative
-Initiative: 2
-
-
-# Defense
-## Armor Class Section
-### Armor Class Calculations
-| Total | Base | Armor | Shield | Dex. | Size | Natural | Deflect | Misc. |
-|:-----:|:----:|:-----:|:------:|:----:|:----:|:-------:|:-------:|:-----:|
-|  15   |  10  |   1   |   1    |  2   |      |    1    |         |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### Armor Class
-- Mage Armor: 18
-- Total: 15
-- Touch: 12
-- Flat: 13
-
-## Saves Section
-### Save Calculations
-| Save      | Total | Base | Ability | Magic | Misc. | Temp. |
-| --------- |:-----:|:----:|:-------:|:-----:|:-----:|:-----:|
-| Fortitude |   6   |  2   |    2    |   2   |       |       |
-| Reflex    |   6   |  2   |    2    |   2   |       |       |
-| Will      |   8   |  5   |    1    |   2   |       |       |
-<!-- TBLFM: @I$2=sum(@I$3..@I$>) -->
-<!-- TBLFM: @3$2=sum(@3$3..@3$>) -->
-<!-- TBLFM: @4$2=sum(@4$3..@4$>) -->
-
-### Saves
-- Fortitude: 6
-- Reflex: 6
-- Will: 8
-
-## CMD Section
-### CMD Calculation
-| Total | Base | BAB | Str. | Dex. | Size | Misc. |
-|:-----:|:----:|:---:|:----:|:----:|:----:|:-----:|
-|  13   |  10  |  3  |  -2  |  2   |      |       |
-<!-- TBLFM: @I$<=sum(@I$2..@I$>) -->
-
-### CMD
-- CMD: 13
-
-# Attacks
-### Destructive Blast
-- Damage: 4d6
-
-### Destructive Blast (1SP)
-- Damage: 7d6
-
-### Light Crossbow
-- Range: 80ft.
-- Type: Piercing
-- Attack: +4
-- Damage: 1d8
-- Critical: 19 - 20 x2
-
-### Prehensile Hair
-- Range: 10ft.
-- Attack: +9
-- Damage: 1d3 + 9
-
-</div></div>
-
 ```
