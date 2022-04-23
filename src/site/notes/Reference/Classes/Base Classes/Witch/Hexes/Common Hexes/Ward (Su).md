@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/reference/classes/base-classes/witch/hexes/common-hexes/ward-su/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+*A witch can use this hex to place a protective ward over one creature.*
+
+**Effect:** The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This ward lasts until the warded creature is hit or fails a saving throw. A witch knows when a warded creature is no longer protected. A witch can have only one ward active at a time. If the witch uses this ability again, the previous ward immediately ends. A witch cannot use this ability on herself. At 8th level and 16th level, the bonuses provided by this ward increase by +1.
