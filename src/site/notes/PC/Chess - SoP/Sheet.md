@@ -13,15 +13,6 @@ title: Health
 
 ```ad-note
 title: Ability Scores
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
 | Ability      | Score | Mod. |
 | ------------ |:-----:|:----:|
 | Strength     |   7   |  -2  |
@@ -30,34 +21,17 @@ title: Ability Scores
 | Intelligence |  22   |  +6  |
 | Wisdom       |  12   |  +1  |
 | Charisma     |   7   |  -2  |
-
-
-
-</div></div>
-
 ```
 
 ```ad-note
 title: Movement
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-**Base Speed:** 6sq. (30ft.)
-**Armor Speed:** 6sq. (30ft.)
-**Burrow:** 
-**Fly:** 
-**Maneuverability:** 
-**Swim:** 
-**Climb:** 
-
-</div></div>
-
+- **Base Speed:** 6sq. (30ft.)
+- **Armor Speed:** 6sq. (30ft.)
+- **Burrow:** 
+- **Fly:** 
+- **Maneuverability:** 
+- **Swim:** 
+- **Climb:** 
 ```
 
 # Hexes
@@ -69,11 +43,11 @@ Save DC: 19 (10 + (Witch_Level / 2) + 6)
 
 ```ad-note
 title: Hexes Known
-- [[Flight (Su)]]
-- [[Fortune (Su)]]
 - [[Prehensile Hair (Su)]]
 - [[Scar (Su)]]
 - [[Ward (Su)]]
+- [[Counterweight]]
+- [[Kinetic Drift]]
 ```
 
 # Spheres & Talents
@@ -86,7 +60,7 @@ title: Stats
 ```
 
 ```ad-destruction
-[[Destructive Blast]]
+- [[Destructive Blast]]
 ```
 
 ```ad-divination
@@ -114,7 +88,7 @@ title: Stats
 ```
 
 ```ad-drawbacks
-
+- 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
