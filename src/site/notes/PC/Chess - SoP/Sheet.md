@@ -34,6 +34,24 @@ title: Movement
 - **Climb:** 
 ```
 
+````ad-note
+title: Casting Tradition
+## Magic Type
+Arcane
+
+## Casting Ability Modifier
+Intelligence
+
+## Drawbacks
+[[Reference/Spheres of Power/Casting Traditions/Drawbacks/Material Casting|Material Casting]]
+[[Reference/Spheres of Power/Casting Traditions/Drawbacks/Expensive Locus|Expensive Locus]]
+[[Reference/Spheres of Power/Casting Traditions/Drawbacks/Somatic Casting|Somatic Casting]] x2
+[[Reference/Spheres of Power/Casting Traditions/Drawbacks/Verbal Casting|Verbal Casting]]
+
+## Boon
++1 spell point per level in casting classes.
+````
+
 # Hexes
 ```ad-note
 title: Stats
@@ -60,31 +78,31 @@ title: Stats
 ```
 
 ```ad-destruction
-- [[Reference/Spheres of Power/Spheres/Destruction/Destructive Blast]]
+- [[Reference/Spheres of Power/Spheres/Destruction/Destructive Blast|Destructive Blast]]
 ```
 
 ```ad-divination
-- [[Reference/Spheres of Power/Spheres/Divination/Alarm]]
-- [[Detect Secrets (divine)]]
-- [[Detect Thoughts (divine)]]
-- [[Divine]]
-- [[Logos (sense) (Origin)]]
-- [[Sense]]
+- [[Reference/Spheres of Power/Spheres/Divination/Alarm|Alarm]]
+- [[Reference/Spheres of Power/Spheres/Divination/Detect Secrets (divine)|Detect Secrets (divine)]]
+- [[Reference/Spheres of Power/Spheres/Divination/Detect Thoughts (divine)|Detect Thoughts (divine)]]
+- [[Reference/Spheres of Power/Spheres/Divination/Divine|Divine]]
+- [[Reference/Spheres of Power/Spheres/Divination/Logos (sense) (Origin)|Logos (sense) (Origin)]]
+- [[Reference/Spheres of Power/Spheres/Divination/Sense|Sense]]
 ```
 
 ```ad-time
-- [[Alter Time]]
-	- [[Alter Time#Haste]]
-	- [[Alter Time#Slow]]
-- [[Ranged Time (range)]]
-- [[Retroactive Preparation]]
-- [[Timeline Bridge (time)]]
+- [[Reference/Spheres of Power/Spheres/Time/Alter Time|Alter Time]]
+	- [[Reference/Spheres of Power/Spheres/Time/Alter Time#Haste|Haste]]
+	- [[Reference/Spheres of Power/Spheres/Time/Alter Time#Slow|Slow]]
+- [[Reference/Spheres of Power/Spheres/Time/Ranged Time (range)|Ranged Time (range)]]
+- [[Reference/Spheres of Power/Spheres/Time/Retroactive Preparation|Retroactive Preparation]]
+- [[Reference/Spheres of Power/Spheres/Time/Timeline Bridge (time)|Timeline Bridge (time)]]
 ```
 
 ```ad-warp
-- [[Extradimensional Room (space)]]
-- [[Extradimensional Storage (space)]] x 2
-- [[Teleport]]
+- [[Reference/Spheres of Power/Spheres/Warp/Extradimensional Room (space)|Extradimensional Room (space)]]
+- [[Reference/Spheres of Power/Spheres/Warp/Extradimensional Storage (space)|Extradimensional Storage (space)]] x 2
+- [[Reference/Spheres of Power/Spheres/Warp/Teleport|Teleport]]
 ```
 
 ```ad-drawbacks
@@ -93,6 +111,7 @@ title: Stats
 
 <div class="markdown-embed-title">
 
+# Drawbacks
 
 
 </div>
@@ -117,7 +136,7 @@ Intelligence
 ```
 
 # Inventory
-- [[PC/Chess - SoP/Inventory|PC/Chess - SOP/Inventory]]
+- [[PC/Chess - SoP/Inventory|Inventory]]
 
 # Combat
 ```ad-note
