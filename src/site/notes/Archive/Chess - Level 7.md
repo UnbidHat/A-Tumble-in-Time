@@ -64,7 +64,7 @@ title: Spells Known
 
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
@@ -83,6 +83,7 @@ title: Spells Known
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
@@ -140,7 +141,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
@@ -159,6 +160,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
@@ -216,7 +218,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
@@ -235,6 +237,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
@@ -292,7 +295,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
@@ -311,6 +314,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
@@ -368,7 +372,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
@@ -387,6 +391,7 @@ https://www.atumbleintime.com/pc/chess/spellbook/
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
