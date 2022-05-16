@@ -22,6 +22,7 @@
 [[Reference/Magic/Spells/Stabilize|Reference/Magic/Spells/Stabilize]]
 [[Reference/Magic/Spells/Touch of Fatigue|Reference/Magic/Spells/Touch of Fatigue]]
 https://www.atumbleintime.com/pc/chess/spellbook/
+Flag
 # Level 1
 [[Reference/Magic/Spells/Charm Person|Charm Person]]
 [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
