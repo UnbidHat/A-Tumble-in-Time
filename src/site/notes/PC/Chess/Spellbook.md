@@ -3,7 +3,7 @@
 ---
 
 # Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Reference/Magic/Spells/Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Reference/Magic/Spells/Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Reference/Magic/Spells/Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Reference/Magic/Spells/Daze]]
