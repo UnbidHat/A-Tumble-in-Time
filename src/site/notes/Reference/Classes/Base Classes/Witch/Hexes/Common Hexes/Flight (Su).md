@@ -4,7 +4,7 @@
 
 *The witch grows lighter as she gains power, eventually gaining the ability to fly.*
 
-**Effect:** At 1st level, the witch can use feather fall at will and gains a +4 racial bonus on Swim checks. At 3rd level, she can cast levitate once per day. At 5th level, she can fly, as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
+**Effect:** At 1st level, the witch can use [[Reference/Magic/Spells/Feather Fall|feather fall]] at will and gains a +4 racial bonus on Swim checks. At 3rd level, she can cast [[Reference/Magic/Spells/Levitate|levitate]] once per day. At 5th level, she can [[Reference/Magic/Spells/Fly|fly]], as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
 
 ```ad-errata
 **Can a witch with the flight hex use her *feather fall* and *levitate* abilities on other creatures?**
