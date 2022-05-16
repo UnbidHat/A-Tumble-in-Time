@@ -3,5 +3,5 @@
 ---
 
 # Character Sheets
-[[PC/Chess/Sheet|Chess]]
+[[PC/Chess/_Character Sheet|Chess]]
 [[PC/Chess - SoP/Sheet|Chess - SoP]]
