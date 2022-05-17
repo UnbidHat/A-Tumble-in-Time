@@ -49,12 +49,12 @@ Save DC: 20 (10 + (Witch_Level / 2) + 6)
 
 ```ad-note
 title: Hexes Known
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Evil Eye (Su)]]
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Flight (Su)|Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Flight (Su)]]
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Fortune (Su)|Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Fortune (Su)]]
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Prehensile Hair (Su)|Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Prehensile Hair (Su)]]
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Scar (Su)|Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Scar (Su)]]
-- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Ward (Su)|Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Ward (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Evil Eye (Su)|Evil Eye (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Flight (Su)|Flight (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Fortune (Su)|Fortune (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Prehensile Hair (Su)|Prehensile Hair (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Scar (Su)|Scar (Su)]]
+- [[Reference/Classes/Base Classes/Witch/Hexes/Common Hexes/Ward (Su)|Ward (Su)]]
 ```
 
 # Spells
@@ -120,19 +120,19 @@ title: Spells Known
 [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]] 
-[[Reference/Magic/Spells/Haste|Reference/Magic/Spells/Haste]] 
+[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+[[Reference/Magic/Spells/Haste|Haste]]
 [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
 [[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Reference/Magic/Spells/Stinking Cloud]]
+[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
 
 # Level 4
 [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Reference/Magic/Spells/Dimension Door]]
+[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
 [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Reference/Magic/Spells/Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Reference/Magic/Spells/Threefold Aspect]]
+[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
 
 </div></div>
 
@@ -196,19 +196,19 @@ title: Spells Known
 [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]] 
-[[Reference/Magic/Spells/Haste|Reference/Magic/Spells/Haste]] 
+[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+[[Reference/Magic/Spells/Haste|Haste]]
 [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
 [[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Reference/Magic/Spells/Stinking Cloud]]
+[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
 
 # Level 4
 [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Reference/Magic/Spells/Dimension Door]]
+[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
 [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Reference/Magic/Spells/Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Reference/Magic/Spells/Threefold Aspect]]
+[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
 
 </div></div>
 
@@ -272,19 +272,19 @@ title: Spells Known
 [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]] 
-[[Reference/Magic/Spells/Haste|Reference/Magic/Spells/Haste]] 
+[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+[[Reference/Magic/Spells/Haste|Haste]]
 [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
 [[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Reference/Magic/Spells/Stinking Cloud]]
+[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
 
 # Level 4
 [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Reference/Magic/Spells/Dimension Door]]
+[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
 [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Reference/Magic/Spells/Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Reference/Magic/Spells/Threefold Aspect]]
+[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
 
 </div></div>
 
@@ -348,19 +348,19 @@ title: Spells Known
 [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]] 
-[[Reference/Magic/Spells/Haste|Reference/Magic/Spells/Haste]] 
+[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+[[Reference/Magic/Spells/Haste|Haste]]
 [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
 [[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Reference/Magic/Spells/Stinking Cloud]]
+[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
 
 # Level 4
 [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Reference/Magic/Spells/Dimension Door]]
+[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
 [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Reference/Magic/Spells/Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Reference/Magic/Spells/Threefold Aspect]]
+[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
 
 </div></div>
 
@@ -375,7 +375,7 @@ title: Spells Known
 
 
 # Cantrips
-[[Arcane Mark]]
+[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 [[Reference/Magic/Spells/Bleed|Bleed]]
 [[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
 [[Reference/Magic/Spells/Daze|Daze]]
@@ -424,19 +424,19 @@ title: Spells Known
 [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]] 
-[[Reference/Magic/Spells/Haste|Reference/Magic/Spells/Haste]] 
+[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+[[Reference/Magic/Spells/Haste|Haste]]
 [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
 [[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Reference/Magic/Spells/Stinking Cloud]]
+[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
 
 # Level 4
 [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Reference/Magic/Spells/Dimension Door]]
+[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
 [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Reference/Magic/Spells/Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Reference/Magic/Spells/Threefold Aspect]]
+[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
 
 </div></div>
 
