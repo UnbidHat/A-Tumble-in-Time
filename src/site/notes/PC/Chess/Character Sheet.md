@@ -63,6 +63,7 @@ title: Spells Known
 
 ```ad-note
 title: Cantrips
+color: 255, 0 , 0
 - [[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
 - [[Reference/Magic/Spells/Bleed|Bleed]]
 - [[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
@@ -85,6 +86,7 @@ title: Cantrips
 
 ```ad-note
 title: Level 1
+color: 255, 127, 0
 - [[Reference/Magic/Spells/Charm Person|Charm Person]]
 - [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
 - [[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
@@ -102,6 +104,7 @@ title: Level 1
 
 ```ad-note
 title: Level 2
+color: 255, 255, 0
 - [[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
 - [[Reference/Magic/Spells/Demand Offering|Demand Offering]]
 - [[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
@@ -115,6 +118,7 @@ title: Level 2
 
 ```ad-note
 title: Level 3
+color: 0, 255, 0
 - [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
 - [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
 - [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
@@ -127,6 +131,7 @@ title: Level 3
 
 ```ad-note
 title: Level 4
+color: 0, 0, 255
 - [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
 - [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
 - [[Reference/Magic/Spells/Dimension Door|Dimension Door]]
@@ -141,8 +146,13 @@ title: Level 4
 title: Spells Prepared
 
 ```ad-note
+title: Cantrips (DC 16)
+color: 255, 0 , 0
+```
+
+```ad-note
 title: Level 1 *(DC 17) (6 = Base(4) + Bonus(2))*
-color: 0,255,0
+color: 255, 127, 0
 - [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
 - [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
 - [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
@@ -151,6 +161,7 @@ color: 0,255,0
 
 ```ad-note
 title: Level 2 *(DC 18) (5 = Base(3) + Bonus(2))*
+color: 255, 255, 0
 - [ ] [[Reference/Magic/Spells/Demand Offering|Reference/Magic/Spells/Demand Offering]]
 - [ ] [[Reference/Magic/Spells/Hold Person|Reference/Magic/Spells/Hold Person]]
 - [ ] [[Reference/Magic/Spells/Silence|Reference/Magic/Spells/Silence]]
@@ -159,32 +170,18 @@ title: Level 2 *(DC 18) (5 = Base(3) + Bonus(2))*
 
 ```ad-note
 title: Level 3 *(DC 19) (4 = Base(3) + Bonus(1))*
+color: 0, 255, 0
 - [x] [[Reference/Magic/Spells/Bestow Curse|Reference/Magic/Spells/Bestow Curse]]
 - [x] [[Reference/Magic/Spells/Paragon Surge|Reference/Magic/Spells/Paragon Surge]]
 ```
 
 ```ad-note
 title: Level 4 *(DC 20) (3 = Base(2) + Bonus(1))*
+color: 0, 0, 255
 - [x] [[Reference/Magic/Spells/Arcane Eye|Reference/Magic/Spells/Arcane Eye]]
 ```
 
 ````
-- Cantrips (DC 16)
-- **Level 1** *(DC 17) (6 = Base(4) + Bonus(2))*
-- [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
-- [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
-- [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
-- [ ] [[Reference/Magic/Spells/Touch of Blindness|Reference/Magic/Spells/Touch of Blindness]]
-- **Level 2** *(DC 18) (5 = Base(3) + Bonus(2))*
-- [ ] [[Reference/Magic/Spells/Demand Offering|Reference/Magic/Spells/Demand Offering]]
-- [ ] [[Reference/Magic/Spells/Hold Person|Reference/Magic/Spells/Hold Person]]
-- [ ] [[Reference/Magic/Spells/Silence|Reference/Magic/Spells/Silence]]
-- [x] [[Reference/Magic/Spells/Spectral Hand|Reference/Magic/Spells/Spectral Hand]]
-- **Level 3** *(DC 19) (4 = Base(3) + Bonus(1))*
-- [x] [[Reference/Magic/Spells/Bestow Curse|Reference/Magic/Spells/Bestow Curse]]
-- [x] [[Reference/Magic/Spells/Paragon Surge|Reference/Magic/Spells/Paragon Surge]]
-- **Level 4** *(DC 20) (3 = Base(2) + Bonus(1))*
-- [x] [[Reference/Magic/Spells/Arcane Eye|Reference/Magic/Spells/Arcane Eye]]
 
 # Combat
 ```ad-note
