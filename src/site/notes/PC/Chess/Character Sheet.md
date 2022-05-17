@@ -58,410 +58,133 @@ title: Hexes Known
 ```
 
 # Spells
-```ad-note
+````ad-note
 title: Spells Known
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
-[[Reference/Magic/Spells/Bleed|Bleed]]
-[[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
-[[Reference/Magic/Spells/Daze|Daze]]
-[[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
-[[Reference/Magic/Spells/Detect Magic|Detect Magic]]
-[[Reference/Magic/Spells/Detect Poison|Detect Poison]]
-[[Reference/Magic/Spells/Grasp|Grasp]]
-[[Reference/Magic/Spells/Guidance|Guidance]]
-[[Reference/Magic/Spells/Light|Light]]
-[[Reference/Magic/Spells/Mending|Mending]]
-[[Reference/Magic/Spells/Message|Message]]
-[[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
-[[Reference/Magic/Spells/Read Magic|Read Magic]]
-[[Reference/Magic/Spells/Resistance|Resistance]]
-[[Reference/Magic/Spells/Spark|Spark]]
-[[Reference/Magic/Spells/Stabilize|Stabilize]]
-[[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
-
-# Level 1
-[[Reference/Magic/Spells/Charm Person|Charm Person]]
-[[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
-[[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
-[[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
-[[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
-[[Reference/Magic/Spells/Identify|Identify]]
-[[Reference/Magic/Spells/Mage Armor|Mage Armor]]
-[[Reference/Magic/Spells/Mount|Mount]]
-[[Reference/Magic/Spells/Theft Ward|Theft Ward]]
-[[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
-[[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
-[[Reference/Magic/Spells/Urban Grace|Urban Grace]]
-[[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
-
-# Level 2
-[[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
-[[Reference/Magic/Spells/Demand Offering|Demand Offering]]
-[[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
-[[Reference/Magic/Spells/Hold Person|Hold Person]]
-[[Reference/Magic/Spells/Planetarium|Planetarium]]
-[[Reference/Magic/Spells/See Invisibility|See Invisibility]]
-[[Reference/Magic/Spells/Share Memory|Share Memory]]
-[[Reference/Magic/Spells/Silence|Silence]]
-[[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
-
-# Level 3
-[[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
-[[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
-[[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
-[[Reference/Magic/Spells/Haste|Haste]]
-[[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
-[[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
-
-# Level 4
-[[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
-[[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
-[[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
-
-</div></div>
-
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
-[[Reference/Magic/Spells/Bleed|Bleed]]
-[[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
-[[Reference/Magic/Spells/Daze|Daze]]
-[[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
-[[Reference/Magic/Spells/Detect Magic|Detect Magic]]
-[[Reference/Magic/Spells/Detect Poison|Detect Poison]]
-[[Reference/Magic/Spells/Grasp|Grasp]]
-[[Reference/Magic/Spells/Guidance|Guidance]]
-[[Reference/Magic/Spells/Light|Light]]
-[[Reference/Magic/Spells/Mending|Mending]]
-[[Reference/Magic/Spells/Message|Message]]
-[[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
-[[Reference/Magic/Spells/Read Magic|Read Magic]]
-[[Reference/Magic/Spells/Resistance|Resistance]]
-[[Reference/Magic/Spells/Spark|Spark]]
-[[Reference/Magic/Spells/Stabilize|Stabilize]]
-[[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
-
-# Level 1
-[[Reference/Magic/Spells/Charm Person|Charm Person]]
-[[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
-[[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
-[[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
-[[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
-[[Reference/Magic/Spells/Identify|Identify]]
-[[Reference/Magic/Spells/Mage Armor|Mage Armor]]
-[[Reference/Magic/Spells/Mount|Mount]]
-[[Reference/Magic/Spells/Theft Ward|Theft Ward]]
-[[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
-[[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
-[[Reference/Magic/Spells/Urban Grace|Urban Grace]]
-[[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
-
-# Level 2
-[[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
-[[Reference/Magic/Spells/Demand Offering|Demand Offering]]
-[[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
-[[Reference/Magic/Spells/Hold Person|Hold Person]]
-[[Reference/Magic/Spells/Planetarium|Planetarium]]
-[[Reference/Magic/Spells/See Invisibility|See Invisibility]]
-[[Reference/Magic/Spells/Share Memory|Share Memory]]
-[[Reference/Magic/Spells/Silence|Silence]]
-[[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
-
-# Level 3
-[[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
-[[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
-[[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
-[[Reference/Magic/Spells/Haste|Haste]]
-[[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
-[[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
-
-# Level 4
-[[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
-[[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
-[[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
-
-</div></div>
-
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
-[[Reference/Magic/Spells/Bleed|Bleed]]
-[[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
-[[Reference/Magic/Spells/Daze|Daze]]
-[[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
-[[Reference/Magic/Spells/Detect Magic|Detect Magic]]
-[[Reference/Magic/Spells/Detect Poison|Detect Poison]]
-[[Reference/Magic/Spells/Grasp|Grasp]]
-[[Reference/Magic/Spells/Guidance|Guidance]]
-[[Reference/Magic/Spells/Light|Light]]
-[[Reference/Magic/Spells/Mending|Mending]]
-[[Reference/Magic/Spells/Message|Message]]
-[[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
-[[Reference/Magic/Spells/Read Magic|Read Magic]]
-[[Reference/Magic/Spells/Resistance|Resistance]]
-[[Reference/Magic/Spells/Spark|Spark]]
-[[Reference/Magic/Spells/Stabilize|Stabilize]]
-[[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
-
-# Level 1
-[[Reference/Magic/Spells/Charm Person|Charm Person]]
-[[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
-[[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
-[[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
-[[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
-[[Reference/Magic/Spells/Identify|Identify]]
-[[Reference/Magic/Spells/Mage Armor|Mage Armor]]
-[[Reference/Magic/Spells/Mount|Mount]]
-[[Reference/Magic/Spells/Theft Ward|Theft Ward]]
-[[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
-[[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
-[[Reference/Magic/Spells/Urban Grace|Urban Grace]]
-[[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
-
-# Level 2
-[[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
-[[Reference/Magic/Spells/Demand Offering|Demand Offering]]
-[[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
-[[Reference/Magic/Spells/Hold Person|Hold Person]]
-[[Reference/Magic/Spells/Planetarium|Planetarium]]
-[[Reference/Magic/Spells/See Invisibility|See Invisibility]]
-[[Reference/Magic/Spells/Share Memory|Share Memory]]
-[[Reference/Magic/Spells/Silence|Silence]]
-[[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
-
-# Level 3
-[[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
-[[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
-[[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
-[[Reference/Magic/Spells/Haste|Haste]]
-[[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
-[[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
-
-# Level 4
-[[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
-[[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
-[[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
-
-</div></div>
-
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
-[[Reference/Magic/Spells/Bleed|Bleed]]
-[[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
-[[Reference/Magic/Spells/Daze|Daze]]
-[[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
-[[Reference/Magic/Spells/Detect Magic|Detect Magic]]
-[[Reference/Magic/Spells/Detect Poison|Detect Poison]]
-[[Reference/Magic/Spells/Grasp|Grasp]]
-[[Reference/Magic/Spells/Guidance|Guidance]]
-[[Reference/Magic/Spells/Light|Light]]
-[[Reference/Magic/Spells/Mending|Mending]]
-[[Reference/Magic/Spells/Message|Message]]
-[[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
-[[Reference/Magic/Spells/Read Magic|Read Magic]]
-[[Reference/Magic/Spells/Resistance|Resistance]]
-[[Reference/Magic/Spells/Spark|Spark]]
-[[Reference/Magic/Spells/Stabilize|Stabilize]]
-[[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
-
-# Level 1
-[[Reference/Magic/Spells/Charm Person|Charm Person]]
-[[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
-[[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
-[[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
-[[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
-[[Reference/Magic/Spells/Identify|Identify]]
-[[Reference/Magic/Spells/Mage Armor|Mage Armor]]
-[[Reference/Magic/Spells/Mount|Mount]]
-[[Reference/Magic/Spells/Theft Ward|Theft Ward]]
-[[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
-[[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
-[[Reference/Magic/Spells/Urban Grace|Urban Grace]]
-[[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
-
-# Level 2
-[[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
-[[Reference/Magic/Spells/Demand Offering|Demand Offering]]
-[[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
-[[Reference/Magic/Spells/Hold Person|Hold Person]]
-[[Reference/Magic/Spells/Planetarium|Planetarium]]
-[[Reference/Magic/Spells/See Invisibility|See Invisibility]]
-[[Reference/Magic/Spells/Share Memory|Share Memory]]
-[[Reference/Magic/Spells/Silence|Silence]]
-[[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
-
-# Level 3
-[[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
-[[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
-[[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
-[[Reference/Magic/Spells/Haste|Haste]]
-[[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
-[[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
-
-# Level 4
-[[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
-[[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
-[[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
-
-</div></div>
-
-- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-# Cantrips
-[[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
-[[Reference/Magic/Spells/Bleed|Bleed]]
-[[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
-[[Reference/Magic/Spells/Daze|Daze]]
-[[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
-[[Reference/Magic/Spells/Detect Magic|Detect Magic]]
-[[Reference/Magic/Spells/Detect Poison|Detect Poison]]
-[[Reference/Magic/Spells/Grasp|Grasp]]
-[[Reference/Magic/Spells/Guidance|Guidance]]
-[[Reference/Magic/Spells/Light|Light]]
-[[Reference/Magic/Spells/Mending|Mending]]
-[[Reference/Magic/Spells/Message|Message]]
-[[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
-[[Reference/Magic/Spells/Read Magic|Read Magic]]
-[[Reference/Magic/Spells/Resistance|Resistance]]
-[[Reference/Magic/Spells/Spark|Spark]]
-[[Reference/Magic/Spells/Stabilize|Stabilize]]
-[[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
-
-# Level 1
-[[Reference/Magic/Spells/Charm Person|Charm Person]]
-[[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
-[[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
-[[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
-[[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
-[[Reference/Magic/Spells/Identify|Identify]]
-[[Reference/Magic/Spells/Mage Armor|Mage Armor]]
-[[Reference/Magic/Spells/Mount|Mount]]
-[[Reference/Magic/Spells/Theft Ward|Theft Ward]]
-[[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
-[[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
-[[Reference/Magic/Spells/Urban Grace|Urban Grace]]
-[[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
-
-# Level 2
-[[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
-[[Reference/Magic/Spells/Demand Offering|Demand Offering]]
-[[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
-[[Reference/Magic/Spells/Hold Person|Hold Person]]
-[[Reference/Magic/Spells/Planetarium|Planetarium]]
-[[Reference/Magic/Spells/See Invisibility|See Invisibility]]
-[[Reference/Magic/Spells/Share Memory|Share Memory]]
-[[Reference/Magic/Spells/Silence|Silence]]
-[[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
-
-# Level 3
-[[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
-[[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
-[[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
-[[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
-[[Reference/Magic/Spells/Haste|Haste]]
-[[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
-[[Reference/Magic/Spells/Riversight|Riversight]]
-[[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
-
-# Level 4
-[[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
-[[Reference/Magic/Spells/Create Armaments|Create Armaments]]
-[[Reference/Magic/Spells/Dimension Door|Dimension Door]]
-[[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
-[[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
-[[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
-
-</div></div>
-
+```ad-note
+title: Cantrips
+- [[Reference/Magic/Spells/Arcane Mark|Arcane Mark]]
+- [[Reference/Magic/Spells/Bleed|Bleed]]
+- [[Reference/Magic/Spells/Dancing Lights|Dancing Lights]]
+- [[Reference/Magic/Spells/Daze|Daze]]
+- [[Reference/Magic/Spells/Detect Fiendish Presence|Detect Fiendish Presence]]
+- [[Reference/Magic/Spells/Detect Magic|Detect Magic]]
+- [[Reference/Magic/Spells/Detect Poison|Detect Poison]]
+- [[Reference/Magic/Spells/Grasp|Grasp]]
+- [[Reference/Magic/Spells/Guidance|Guidance]]
+- [[Reference/Magic/Spells/Light|Light]]
+- [[Reference/Magic/Spells/Mending|Mending]]
+- [[Reference/Magic/Spells/Message|Message]]
+- [[Reference/Magic/Spells/Putrefy Food and Drink|Putrefy Food and Drink]]
+- [[Reference/Magic/Spells/Read Magic|Read Magic]]
+- [[Reference/Magic/Spells/Resistance|Resistance]]
+- [[Reference/Magic/Spells/Spark|Spark]]
+- [[Reference/Magic/Spells/Stabilize|Stabilize]]
+- [[Reference/Magic/Spells/Touch of Fatigue|Touch of Fatigue]]
 ```
 
-> [!Note] Spells Prepared
-> - Cantrips (DC 16)
-> - **Level 1** *(DC 17) (6 = Base(4) + Bonus(2))*
-> 	- [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
-> 	- [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
-> 	- [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
-> 	- [ ] [[Reference/Magic/Spells/Touch of Blindness|Reference/Magic/Spells/Touch of Blindness]]
-> - **Level 2** *(DC 18) (5 = Base(3) + Bonus(2))*
-> 	- [ ] [[Reference/Magic/Spells/Demand Offering|Reference/Magic/Spells/Demand Offering]]
-> 	- [ ] [[Reference/Magic/Spells/Hold Person|Reference/Magic/Spells/Hold Person]]
-> 	- [ ] [[Reference/Magic/Spells/Silence|Reference/Magic/Spells/Silence]]
-> 	- [x] [[Reference/Magic/Spells/Spectral Hand|Reference/Magic/Spells/Spectral Hand]]
-> - **Level 3** *(DC 19) (4 = Base(3) + Bonus(1))*
-> 	- [x] [[Reference/Magic/Spells/Bestow Curse|Reference/Magic/Spells/Bestow Curse]]
-> 	- [x] [[Reference/Magic/Spells/Paragon Surge|Reference/Magic/Spells/Paragon Surge]]
-> - **Level 4** *(DC 20) (3 = Base(2) + Bonus(1))*
-> 	- [x] [[Reference/Magic/Spells/Arcane Eye|Reference/Magic/Spells/Arcane Eye]]
+```ad-note
+title: Level 1
+- [[Reference/Magic/Spells/Charm Person|Charm Person]]
+- [[Reference/Magic/Spells/Comprehend Languages|Comprehend Languages]]
+- [[Reference/Magic/Spells/Cure Light Wounds|Cure Light Wounds]]
+- [[Reference/Magic/Spells/Detect Secret Doors|Detect Secret Doors]]
+- [[Reference/Magic/Spells/Ear-Piercing Scream|Ear-Piercing Scream]]
+- [[Reference/Magic/Spells/Identify|Identify]]
+- [[Reference/Magic/Spells/Mage Armor|Mage Armor]]
+- [[Reference/Magic/Spells/Mount|Mount]]
+- [[Reference/Magic/Spells/Theft Ward|Theft Ward]]
+- [[Reference/Magic/Spells/Touch of Blindness|Touch of Blindness]]
+- [[Reference/Magic/Spells/Unseen Servant|Unseen Servant]]
+- [[Reference/Magic/Spells/Urban Grace|Urban Grace]]
+- [[Reference/Magic/Spells/Ventriloquism|Ventriloquism]]
+```
 
-# Inventory
-- [[PC/Chess/Inventory|Inventory]]
+```ad-note
+title: Level 2
+- [[Reference/Magic/Spells/Blood Transcription|Blood Transcription]]
+- [[Reference/Magic/Spells/Demand Offering|Demand Offering]]
+- [[Reference/Magic/Spells/Detect Thoughts|Detect Thoughts]]
+- [[Reference/Magic/Spells/Hold Person|Hold Person]]
+- [[Reference/Magic/Spells/Planetarium|Planetarium]]
+- [[Reference/Magic/Spells/See Invisibility|See Invisibility]]
+- [[Reference/Magic/Spells/Share Memory|Share Memory]]
+- [[Reference/Magic/Spells/Silence|Silence]]
+- [[Reference/Magic/Spells/Spectral Hand|Spectral Hand]]
+```
+
+```ad-note
+title: Level 3
+- [[Reference/Magic/Spells/Bestow Curse|Bestow Curse]]
+- [[Reference/Magic/Spells/Conjure Carriage|Conjure Carriage]]
+- [[Reference/Magic/Spells/Curse of Befouled Fortune|Curse of Befouled Fortune]]
+- [[Reference/Magic/Spells/Dispel Magic|Dispel Magic]]
+- [[Reference/Magic/Spells/Haste|Haste]]
+- [[Reference/Magic/Spells/Paragon Surge|Paragon Surge]]
+- [[Reference/Magic/Spells/Riversight|Riversight]]
+- [[Reference/Magic/Spells/Stinking Cloud|Stinking Cloud]]
+```
+
+```ad-note
+title: Level 4
+- [[Reference/Magic/Spells/Arcane Eye|Arcane Eye]]
+- [[Reference/Magic/Spells/Create Armaments|Create Armaments]]
+- [[Reference/Magic/Spells/Dimension Door|Dimension Door]]
+- [[Reference/Magic/Spells/Secure Shelter|Secure Shelter]]
+- [[Reference/Magic/Spells/Summon Monster IV|Summon Monster IV]]
+- [[Reference/Magic/Spells/Threefold Aspect|Threefold Aspect]]
+```
+
+````
+
+````ad-note
+title: Spells Prepared
+
+```ad-note
+color: 0,255,0
+title: Level 1 *(DC 17) (6 = Base(4) + Bonus(2))*
+- [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
+- [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
+- [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
+- [ ] [[Reference/Magic/Spells/Touch of Blindness|Reference/Magic/Spells/Touch of Blindness]]
+```
+
+```ad-note
+title: Level 2 *(DC 18) (5 = Base(3) + Bonus(2))*
+- [ ] [[Reference/Magic/Spells/Demand Offering|Reference/Magic/Spells/Demand Offering]]
+- [ ] [[Reference/Magic/Spells/Hold Person|Reference/Magic/Spells/Hold Person]]
+- [ ] [[Reference/Magic/Spells/Silence|Reference/Magic/Spells/Silence]]
+- [x] [[Reference/Magic/Spells/Spectral Hand|Reference/Magic/Spells/Spectral Hand]]
+```
+
+```ad-note
+title: Level 3 *(DC 19) (4 = Base(3) + Bonus(1))*
+- [x] [[Reference/Magic/Spells/Bestow Curse|Reference/Magic/Spells/Bestow Curse]]
+- [x] [[Reference/Magic/Spells/Paragon Surge|Reference/Magic/Spells/Paragon Surge]]
+```
+
+```ad-note
+title: Level 4 *(DC 20) (3 = Base(2) + Bonus(1))*
+- [x] [[Reference/Magic/Spells/Arcane Eye|Reference/Magic/Spells/Arcane Eye]]
+```
+
+````
+- Cantrips (DC 16)
+- **Level 1** *(DC 17) (6 = Base(4) + Bonus(2))*
+- [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
+- [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
+- [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
+- [ ] [[Reference/Magic/Spells/Touch of Blindness|Reference/Magic/Spells/Touch of Blindness]]
+- **Level 2** *(DC 18) (5 = Base(3) + Bonus(2))*
+- [ ] [[Reference/Magic/Spells/Demand Offering|Reference/Magic/Spells/Demand Offering]]
+- [ ] [[Reference/Magic/Spells/Hold Person|Reference/Magic/Spells/Hold Person]]
+- [ ] [[Reference/Magic/Spells/Silence|Reference/Magic/Spells/Silence]]
+- [x] [[Reference/Magic/Spells/Spectral Hand|Reference/Magic/Spells/Spectral Hand]]
+- **Level 3** *(DC 19) (4 = Base(3) + Bonus(1))*
+- [x] [[Reference/Magic/Spells/Bestow Curse|Reference/Magic/Spells/Bestow Curse]]
+- [x] [[Reference/Magic/Spells/Paragon Surge|Reference/Magic/Spells/Paragon Surge]]
+- **Level 4** *(DC 20) (3 = Base(2) + Bonus(1))*
+- [x] [[Reference/Magic/Spells/Arcane Eye|Reference/Magic/Spells/Arcane Eye]]
 
 # Combat
 ```ad-note
