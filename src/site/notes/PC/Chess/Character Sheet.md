@@ -141,8 +141,8 @@ title: Level 4
 title: Spells Prepared
 
 ```ad-note
-color: 0,255,0
 title: Level 1 *(DC 17) (6 = Base(4) + Bonus(2))*
+color: 0,255,0
 - [ ] [[Reference/Magic/Spells/Detect Secret Doors|Reference/Magic/Spells/Detect Secret Doors]]
 - [ ] [[Reference/Magic/Spells/Ear-Piercing Scream|Reference/Magic/Spells/Ear-Piercing Scream]]
 - [x] [[Reference/Magic/Spells/Mage Armor|Reference/Magic/Spells/Mage Armor]]
